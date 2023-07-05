@@ -1,0 +1,56 @@
+cyp26b1	ENSORLG00000003465	cytochrome P450, family 26, subfamily B, polypeptide 1
+c1qb	ENSORLG00000017261	complement C1q subcomponent subunit B
+rbp4	ENSORLG00000005072	retinol binding protein 4
+cyp19b	ENSORLG00000005548	cytochrome P450 19b
+zgc:112492	ENSORLG00000028128	galectin 3 binding protein
+ifitm1	ENSORLG00000001737	dispanin subfamily A member 2b
+ifitm1	ENSORLG00000016164
+ifitm1	ENSORLG00000023363
+ifitm1	ENSORLG00000024330	dispanin subfamily A member 2b-like
+ifitm1	ENSORLG00000028839
+ptgdsb.1	ENSORLG00000007143	lipocalin
+cmklr1	ENSORLG00000006867	chemerin chemokine-like receptor 1
+cx43	ENSORLG00000015485	gap junction alpha-1 protein
+cx43.4	ENSORLG00000018076	gap junction gamma-1 protein-like
+viml	ENSORLG00000017812	vimentin
+zgc:174904	 ENSORLG00000006423	hepatic lectin
+krt4	ENSORLG00000016561	intermediate filament protein ON
+c1qa	ENSORLG00000019405	complement C1q subcomponent subunit A
+si:ch211-251b21.1	ENSORLG00000016860	glutamate receptor U1
+ackr3a	ENSORLG00000017874	atypical chemokine receptor 3
+mfap4	ENSORLG00000019614	microfibril-associated glycoprotein 4
+mfap4	ENSORLG00000020400	microfibril-associated glycoprotein 4-like
+mfap4	ENSORLG00000020401	microfibril associated protein 4
+mfap4	ENSORLG00000024348
+mfap4	ENSORLG00000024551
+mfap4	ENSORLG00000027007	microfibril-associated glycoprotein 4
+spry4	ENSORLG00000001490	sprouty RTK signaling antagonist 4
+sfrp5	ENSORLG00000007621	secreted frizzled related protein 5
+fabp7a	ENSORLG00000013475	fatty acid-binding protein, brain
+mmp2	ENSORLG00000013688	matrix metallopeptidase 2
+npc2	ENSORLG00000022170	NPC intracellular cholesterol transporter 2
+olklklp	ENSORLG00000017983	kallikrein like protein	
+cx32.2	ENSORLG00000015472	connexin 32.2
+ccl34a.4	ENSORLG00000028943	C-C motif chemokine 2
+crabp1a	ENSORLG00000023034	cellular retinoic acid-binding protein 1
+apoeb	ENSORLG00000013986	apolipoprotein Eb
+s100a10b	ENSORLG00000000531	protein S100-A10
+s100z	ENSORLG00000030634	S100 calcium binding protein Z
+s100	ENSORLG00000026246	protein S100-A1
+s100p	ENSORLG00000010744	S100 calcium binding protein P
+s100	ENSORLG00000023818	S100 calcium binding protein A1
+s100t	ENSORLG00000009724	protein S100-A1-like
+s100	ENSORLG00000026818	protein S100-B
+s100b	ENSORLG00000028907	S100 calcium binding protein B
+s100s	ENSORLG00000022495	protein S100-A1-like
+s100a11	ENSORLG00000030520	protein S100-A13-like
+icn	ENSORLG00000026521	ictacalcin
+s100	ENSORLG00000025134	protein S100-A13
+gfap	ENSORLG00000002346	glial fibrillary acidic protein
+fsta	ENSORLG00000001892	follistatin
+fstl1b	ENSORLG00000017943	follistatin like 1
+fstl4	ENSORLG00000001025	follistatin like 4
+fstl5	ENSORLG00000023813	follistatin like 5
+cx43	ENSORLG00000015485	gap junction alpha-1 protein
+sox2	ENSORLG00000001780	SOX3 protein
+sox2	ENSORLG00000011685	SRY-box transcription factor 2
